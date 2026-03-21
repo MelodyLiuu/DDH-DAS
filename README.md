@@ -65,6 +65,3 @@
 | **資料庫** | SQLite |
 | **開發環境** | Visual Studio Code、Anaconda |
 
----
-
-
